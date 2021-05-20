@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #e7d4b5;
+    font-family: 'Heebo', sans-serif;
+}
+
+#myChart {
+    padding: 50px;
+}
